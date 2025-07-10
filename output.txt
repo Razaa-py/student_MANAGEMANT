@@ -1,0 +1,5 @@
+/home/ahmad/Python/Practice_set/task_2.py:21: LangChainDeprecationWarning: The class `Ollama` was deprecated in LangChain 0.3.1 and will be removed in 1.0.0. An updated version of the class exists in the :class:`~langchain-ollama package and should be used instead. To use it run `pip install -U :class:`~langchain-ollama` and import as `from :class:`~langchain_ollama import OllamaLLM``.
+  # llm = Ollama(model="llama3")
+/home/ahmad/Python/Practice_set/task_2.py:27: LangChainDeprecationWarning: The method `Chain.run` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  # result = rag.run(query)
+Answer: This PDF appears to be a report on Shan Masala, a brand, and it discusses their market positioning, competitive landscape, pricing strategy, and digital presence. The author critiques the report for being too descriptive rather than analytical, and suggests that it could be improved by providing deeper insights and strategic recommendations.
